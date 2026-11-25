@@ -1,0 +1,1 @@
+Add auth, lecture, summary, quiz, and user controllers here.
